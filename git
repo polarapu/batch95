@@ -1,38 +1,38 @@
-git init glfdg;dfg'  - to intilize the empty git repo
-gfd
-gitdf config --global user.name "Polarapu Prasad"
-git chonfig --global user.email "devopstraining2015@gmail.com"
-gh
-gigt config --list
-nhgnhnhgnh
-To remove users frbgbgfngfnom git config
-----------nhnhnhfn-----------------------
-gbggngsadfhgh
-git config --bbgnhnhmyjglobal --unset user.name
-git config --global --uhtrhryytnset user.email
-======================tbhtrhbhtrh
+git init   - to intilize the empty git repo
 
-git clone https://github.com/tatatbtrghbhgbsharath/repo1.git
+git config --global user.name "Polarapu Prasad"
+git config --global user.email "devopstraining2015@gmail.com"
+
+git config --list
+
+To remove users from git config
+---------------------------------
+
+git config --global --unset user.name
+git config --global --unset user.email
+======================
+
+git clone https://github.com/tatasharath/repo1.git
 ls
-cd repo1bgdbdgbdg
-touch file1bdg
-lsb
-gitgb status
-git agdd file1
-git stbatus
-git comgrmit -m "smaple-commit" file1
-git statugfrs
-git logbgr
-git pushf
-bg
-==fn====================
-toucgfnh file2 file3 file4
-lsb
-gitvz status
-git andd file2 file3 file4
-ormjnbv
-git addc .
-orjkjhgf
+cd repo1
+touch file1
+ls
+git status
+git add file1
+git status
+git commit -m "smaple-commit" file1
+git status
+git log
+git push
+
+======================
+touch file2 file3 file4
+ls
+git status
+git add file2 file3 file4
+or
+git add .
+or
 git add *
 or
 git add -A

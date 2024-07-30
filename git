@@ -6,6 +6,8 @@ git config --global user.email "devopstraining2015@gmail.com"
 git config --list
 
 To remove users from git config
+
+batch95
 ---------------------------------
 jsdanufbfabkhb
 

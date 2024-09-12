@@ -8,6 +8,8 @@ git config --list
 To remove users from git config
 
 batch95
+
+lokesh kumar kalava
 ---------------------------------
 
 git config --global --unset user.name
